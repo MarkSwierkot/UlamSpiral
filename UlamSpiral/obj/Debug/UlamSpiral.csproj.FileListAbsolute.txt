@@ -1,0 +1,7 @@
+C:\Users\MarekSwierkot\source\repos\UlamSpiral\UlamSpiral\bin\Debug\UlamSpiral.exe.config
+C:\Users\MarekSwierkot\source\repos\UlamSpiral\UlamSpiral\bin\Debug\UlamSpiral.exe
+C:\Users\MarekSwierkot\source\repos\UlamSpiral\UlamSpiral\bin\Debug\UlamSpiral.pdb
+C:\Users\MarekSwierkot\source\repos\UlamSpiral\UlamSpiral\obj\Debug\UlamSpiral.csproj.CoreCompileInputs.cache
+C:\Users\MarekSwierkot\source\repos\UlamSpiral\UlamSpiral\obj\Debug\UlamSpiral.exe
+C:\Users\MarekSwierkot\source\repos\UlamSpiral\UlamSpiral\obj\Debug\UlamSpiral.pdb
+C:\Users\MarekSwierkot\source\repos\UlamSpiral\UlamSpiral\obj\Debug\UlamSpiral.csprojAssemblyReference.cache
